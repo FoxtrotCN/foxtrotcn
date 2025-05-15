@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 👋 Hi there! I'm a **Software Developer** with over **2 years of experience** building web applications that are clean, functional, and user-friendly. I hold an **Associate's Degree in Software Development**, and I love turning ideas into real-world solutions.
 
 💻 I'm skilled in both **Front-End** and **Back-End** technologies — from crafting sleek user interfaces to designing solid API architectures.
