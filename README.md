@@ -1,5 +1,16 @@
 # 💫 About Me:
-Software Developer with over 2 years of experience in web application development and an associate's degree in Software Development. Skilled in Front-End and Back-End technologies, with a strong passion for problem-solving, collaboration, and applying best<br>practices throughout the software development life cycle.<br>
+👋 Hi there! I'm a **Software Developer** with over **2 years of experience** building web applications that are clean, functional, and user-friendly. I hold an **Associate's Degree in Software Development**, and I love turning ideas into real-world solutions.
+
+💻 I'm skilled in both **Front-End** and **Back-End** technologies — from crafting sleek user interfaces to designing solid API architectures.
+
+🧠 What drives me? A genuine passion for:
+- 🚀 Solving complex problems  
+- 🤝 Collaborating with others  
+- 🛠️ Following best practices across the **entire software development life cycle**
+
+📖  
+> **"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."**  
+> *– Colossians 3:23*
 
 
 ## 🌐 Socials:
